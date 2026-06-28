@@ -1,0 +1,1 @@
+{"name":"HLSL Shader Sandbox","description":"A real-time HLSL shader editor and renderer with instant WebGL 2 transpilation and interactive controls.","requestFramePermissions":[],"majorCapabilities":["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]}
